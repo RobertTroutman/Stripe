@@ -1,7 +1,7 @@
 # Stripe
 Stripe Case Study
 
-![](Stripe/stripe-logo.jpg)
+![Stripe](Stripe/stripe-logo.jpg)
 
 ## Overview and Origin:
 * Stripe, Inc.
