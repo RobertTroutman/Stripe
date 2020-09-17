@@ -63,7 +63,7 @@ Stripe Case Study
 
 [Wikipedia,2020](https://en.wikipedia.org/wiki/Stripe_(company)) 
 
-[Forbes,2019](https://www.forbes.com/sites/jeffkauflin/2019/02/04/the-10-biggest-fintech-companies-in-america-2019/#32f1f88932b9
+[Forbes,2019](https://www.forbes.com/sites/jeffkauflin/2019/02/04/the-10-biggest-fintech-companies-in-america-2019/#32f1f88932b9)
 
 [Stripe_connect,2020](https://stripe.com/connect)
 
